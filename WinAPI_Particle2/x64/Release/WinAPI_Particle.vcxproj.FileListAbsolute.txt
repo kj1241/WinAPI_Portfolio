@@ -1,0 +1,2 @@
+C:\Users\Mr_K\Desktop\(연습)WinAPI_Particle\x64\Release\WinAPI_Particle.exe
+C:\Users\Mr_K\Desktop\(연습)WinAPI_Particle2\x64\Release\WinAPI_Particle.exe
