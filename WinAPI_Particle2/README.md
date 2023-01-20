@@ -1,4 +1,4 @@
-# WinAPI_Particle2
+# ParticleToyProject2
 
 WinAPI_ToyProject(Tool Programming) code  collection
 
