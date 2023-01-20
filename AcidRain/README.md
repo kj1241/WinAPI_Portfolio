@@ -1,8 +1,8 @@
-# PartticleToyProject
-WinAPI_ToyProject(Tool Programming) code  collection  
+# 산성비(Win API)
+Typing practice programming.(Analogy Typing is like acid rain)  
 
-Toy Project for portfolio with WinAPI C++
+Toy Project for portfolio with WinAPI C++  
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMa3PT%2FbtrWBhEp68J%2FCYPQy7p6EPkkLvIljIK3Vk%2Fimg.png">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6mvKU%2FbtrWQ4FbAdy%2F3KgOBpF8KuNoKR5gP9hr00%2Fimg.png">
 
-<mark style="background-color:orange">**자세한 사항(티스토리): https://kyeoungju.tistory.com/17**  </mark> 
+<mark style="background-color:orange">**자세한 사항(티스토리): https://kyeoungju.tistory.com/12**  </mark> 
